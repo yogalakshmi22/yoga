@@ -1,0 +1,22 @@
+{
+  "career":{
+    "info":"To pursue a challenging career."
+},
+"education":[
+  {
+    "degree":"SSC",
+    "school":"kings",
+    "data":["2007","80%"]
+  },
+  {
+    "degree":"INTERMEDIATE",
+    "school":"vijayam",
+    "data":["2011","80%"]
+  },
+  {
+    "degree":"GRADUATION",
+    "school":"svec",
+    "data":["2013","80%"]
+  }
+]
+}
