@@ -1,22 +1,42 @@
 {
-  "career":{
-    "info":"To pursue a challenging career."
+"career":{
+"info":  "To pursue a challenging career."
 },
 "education":[
+ {
+   "degree":"ssc",
+   "school":"kings",
+   "data":["2013","90%"]
+ },{
+   "degree":"Intermediate",
+   "school":"vijayam jr college",
+   "data":["2015","96%"]
+ },{
+   "degree":"Graduation",
+   "school":"sree vidyanikethan",
+   "data":["2019","85%"]
+ }
+],
+"skills":[
   {
-    "degree":"SSC",
-    "school":"kings",
-    "data":["2007","80%"]
+    "name":"operating systems",
+    "info":["windows","ubuntu","linux"]
   },
   {
-    "degree":"INTERMEDIATE",
-    "school":"vijayam",
-    "data":["2011","80%"]
+    "name":"languages",
+    "info":["c","java","python","data structures"]
   },
   {
-    "degree":"GRADUATION",
-    "school":"svec",
-    "data":["2013","80%"]
+    "name":"databases",
+    "info":["mysql","oracle"]
+  },
+  {
+    "name":"web technologies",
+    "info":["HTML","css","javascript"]
+  },
+  {
+    "name":"Frameworks",
+    "info":["Bootstrap",".net"]
   }
 ]
 }
